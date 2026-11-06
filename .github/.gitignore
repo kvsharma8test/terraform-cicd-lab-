@@ -1,9 +1,0 @@
-# Terraform working files
-.terraform/
-*.tfstate
-*.tfstate.*
-terraform.tfstate.d/
-tfplan
-crash.log
- 
-
